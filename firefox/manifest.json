@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Anti Rick-Roll",
+  "version": "1.0",
+
+  "description": "Adds a warning page before opening a URL with a rickroll.",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "permissions": [
+    "webRequest",
+    "downloads",
+    "<all_urls>"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+
+}
