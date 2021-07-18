@@ -1,2 +1,2 @@
 # AntiRickRoll
-Chrome extension to prevent you from being rickrolled.
+Extension to prevent you from being rickrolled.
